@@ -1,0 +1,9 @@
+{
+    "compilerOptions" : {
+      "baseUrl" : "./",
+      "paths" : {
+        // 提示作用不做路径转换
+        "@/*":["src/*"]
+      }
+    }
+  }
